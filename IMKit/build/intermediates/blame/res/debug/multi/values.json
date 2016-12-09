@@ -1,0 +1,4780 @@
+[
+    {
+        "outputFile": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endLine": 146,
+                    "endColumn": 24,
+                    "endOffset": 4713
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_emoji.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4718,
+                    "endLine": 276,
+                    "endColumn": 12,
+                    "endOffset": 9604
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_emoji.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 9609,
+                    "endLine": 285,
+                    "endColumn": 12,
+                    "endOffset": 9840
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 9845,
+                    "endLine": 302,
+                    "endColumn": 12,
+                    "endOffset": 10279
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 10284,
+                    "endLine": 326,
+                    "endColumn": 12,
+                    "endOffset": 10907
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 10912,
+                    "endLine": 342,
+                    "endColumn": 12,
+                    "endOffset": 11325
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 11330,
+                    "endLine": 363,
+                    "endColumn": 12,
+                    "endOffset": 11876
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 11881,
+                    "endLine": 368,
+                    "endColumn": 12,
+                    "endOffset": 12007
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_file_suffix.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 12012,
+                    "endColumn": 57,
+                    "endOffset": 12065
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 12070,
+                    "endColumn": 53,
+                    "endOffset": 12119
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 53,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 12124,
+                    "endColumn": 55,
+                    "endOffset": 12175
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 55,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 12180,
+                    "endColumn": 50,
+                    "endOffset": 12226
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 12231,
+                    "endColumn": 60,
+                    "endOffset": 12287
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 12292,
+                    "endColumn": 53,
+                    "endOffset": 12341
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 12346,
+                    "endColumn": 44,
+                    "endOffset": 12386
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endColumn": 44,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 12391,
+                    "endColumn": 61,
+                    "endOffset": 12448
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 12453,
+                    "endColumn": 45,
+                    "endOffset": 12494
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 12499,
+                    "endColumn": 75,
+                    "endOffset": 12570
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 12575,
+                    "endColumn": 72,
+                    "endOffset": 12643
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 12648,
+                    "endColumn": 68,
+                    "endOffset": 12712
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 12717,
+                    "endColumn": 56,
+                    "endOffset": 12769
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 12774,
+                    "endColumn": 50,
+                    "endOffset": 12820
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 12825,
+                    "endColumn": 49,
+                    "endOffset": 12870
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 12875,
+                    "endColumn": 48,
+                    "endOffset": 12919
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 12924,
+                    "endColumn": 55,
+                    "endOffset": 12975
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 12980,
+                    "endColumn": 53,
+                    "endOffset": 13029
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 13034,
+                    "endColumn": 45,
+                    "endOffset": 13075
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 13080,
+                    "endColumn": 52,
+                    "endOffset": 13128
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 13133,
+                    "endColumn": 52,
+                    "endOffset": 13181
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 13186,
+                    "endColumn": 47,
+                    "endOffset": 13229
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 13234,
+                    "endColumn": 52,
+                    "endOffset": 13282
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 13287,
+                    "endColumn": 54,
+                    "endOffset": 13337
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 13342,
+                    "endColumn": 46,
+                    "endOffset": 13384
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 13389,
+                    "endColumn": 52,
+                    "endOffset": 13437
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 13442,
+                    "endColumn": 48,
+                    "endOffset": 13486
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 13491,
+                    "endColumn": 53,
+                    "endOffset": 13540
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 13545,
+                    "endColumn": 52,
+                    "endOffset": 13593
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 13598,
+                    "endColumn": 93,
+                    "endOffset": 13687
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 13692,
+                    "endColumn": 60,
+                    "endOffset": 13748
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 13753,
+                    "endColumn": 55,
+                    "endOffset": 13804
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 13809,
+                    "endColumn": 63,
+                    "endOffset": 13868
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 13873,
+                    "endColumn": 51,
+                    "endOffset": 13920
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 13925,
+                    "endColumn": 64,
+                    "endOffset": 13985
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 13990,
+                    "endColumn": 63,
+                    "endOffset": 14049
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 14054,
+                    "endColumn": 64,
+                    "endOffset": 14114
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 14119,
+                    "endColumn": 69,
+                    "endOffset": 14184
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 14189,
+                    "endColumn": 68,
+                    "endOffset": 14253
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 14258,
+                    "endColumn": 65,
+                    "endOffset": 14319
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 14324,
+                    "endColumn": 47,
+                    "endOffset": 14367
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 14372,
+                    "endColumn": 68,
+                    "endOffset": 14436
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 14441,
+                    "endColumn": 69,
+                    "endOffset": 14506
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 14511,
+                    "endColumn": 68,
+                    "endOffset": 14575
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 14580,
+                    "endColumn": 65,
+                    "endOffset": 14641
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 14646,
+                    "endColumn": 60,
+                    "endOffset": 14702
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 14707,
+                    "endColumn": 56,
+                    "endOffset": 14759
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 14764,
+                    "endColumn": 55,
+                    "endOffset": 14815
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 14820,
+                    "endColumn": 76,
+                    "endOffset": 14892
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 14897,
+                    "endColumn": 57,
+                    "endOffset": 14950
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 14955,
+                    "endColumn": 56,
+                    "endOffset": 15007
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 15012,
+                    "endColumn": 47,
+                    "endOffset": 15055
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 15060,
+                    "endColumn": 52,
+                    "endOffset": 15108
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 15113,
+                    "endColumn": 48,
+                    "endOffset": 15157
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 15162,
+                    "endColumn": 53,
+                    "endOffset": 15211
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 15216,
+                    "endColumn": 54,
+                    "endOffset": 15266
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 15271,
+                    "endColumn": 53,
+                    "endOffset": 15320
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 16023,
+                    "endColumn": 61,
+                    "endOffset": 16080
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 16085,
+                    "endColumn": 61,
+                    "endOffset": 16142
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 16147,
+                    "endColumn": 61,
+                    "endOffset": 16204
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 16209,
+                    "endColumn": 63,
+                    "endOffset": 16268
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 16273,
+                    "endColumn": 41,
+                    "endOffset": 16310
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 16315,
+                    "endColumn": 36,
+                    "endOffset": 16347
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 16352,
+                    "endColumn": 42,
+                    "endOffset": 16390
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 16395,
+                    "endColumn": 38,
+                    "endOffset": 16429
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 16434,
+                    "endColumn": 40,
+                    "endOffset": 16470
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 16475,
+                    "endColumn": 39,
+                    "endOffset": 16510
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 16515,
+                    "endColumn": 52,
+                    "endOffset": 16563
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 16568,
+                    "endColumn": 54,
+                    "endOffset": 16618
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 16623,
+                    "endColumn": 51,
+                    "endOffset": 16670
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 16675,
+                    "endColumn": 49,
+                    "endOffset": 16720
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 16725,
+                    "endColumn": 50,
+                    "endOffset": 16771
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 16776,
+                    "endColumn": 41,
+                    "endOffset": 16813
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 16818,
+                    "endColumn": 40,
+                    "endOffset": 16854
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 16859,
+                    "endColumn": 37,
+                    "endOffset": 16892
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 16897,
+                    "endColumn": 36,
+                    "endOffset": 16929
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 16934,
+                    "endColumn": 35,
+                    "endOffset": 16965
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 16970,
+                    "endColumn": 47,
+                    "endOffset": 17013
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 17018,
+                    "endColumn": 42,
+                    "endOffset": 17056
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 17061,
+                    "endColumn": 44,
+                    "endOffset": 17101
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 17106,
+                    "endColumn": 37,
+                    "endOffset": 17139
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 17144,
+                    "endColumn": 37,
+                    "endOffset": 17177
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 17182,
+                    "endColumn": 37,
+                    "endOffset": 17215
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 17220,
+                    "endColumn": 37,
+                    "endOffset": 17253
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 17258,
+                    "endColumn": 37,
+                    "endOffset": 17291
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 17296,
+                    "endColumn": 37,
+                    "endOffset": 17329
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 17334,
+                    "endColumn": 37,
+                    "endOffset": 17367
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 17372,
+                    "endColumn": 37,
+                    "endOffset": 17405
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 17410,
+                    "endColumn": 37,
+                    "endOffset": 17443
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 17448,
+                    "endColumn": 37,
+                    "endOffset": 17481
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 17486,
+                    "endColumn": 49,
+                    "endOffset": 17531
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 17536,
+                    "endColumn": 38,
+                    "endOffset": 17570
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 17575,
+                    "endColumn": 47,
+                    "endOffset": 17618
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 17623,
+                    "endColumn": 36,
+                    "endOffset": 17655
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 17660,
+                    "endColumn": 36,
+                    "endOffset": 17692
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 17697,
+                    "endColumn": 36,
+                    "endOffset": 17729
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 17734,
+                    "endColumn": 51,
+                    "endOffset": 17781
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 17786,
+                    "endColumn": 35,
+                    "endOffset": 17817
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 17822,
+                    "endColumn": 35,
+                    "endOffset": 17853
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 17858,
+                    "endColumn": 37,
+                    "endOffset": 17891
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 17896,
+                    "endColumn": 40,
+                    "endOffset": 17932
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 17937,
+                    "endColumn": 46,
+                    "endOffset": 17979
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 17984,
+                    "endColumn": 40,
+                    "endOffset": 18020
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 18025,
+                    "endColumn": 44,
+                    "endOffset": 18065
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 18070,
+                    "endColumn": 52,
+                    "endOffset": 18118
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 18123,
+                    "endColumn": 51,
+                    "endOffset": 18170
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 18175,
+                    "endColumn": 37,
+                    "endOffset": 18208
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 18213,
+                    "endColumn": 36,
+                    "endOffset": 18245
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 18250,
+                    "endColumn": 43,
+                    "endOffset": 18289
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 18294,
+                    "endColumn": 36,
+                    "endOffset": 18326
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 18331,
+                    "endColumn": 37,
+                    "endOffset": 18364
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 18369,
+                    "endColumn": 44,
+                    "endOffset": 18409
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 18414,
+                    "endColumn": 35,
+                    "endOffset": 18445
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 18450,
+                    "endColumn": 46,
+                    "endOffset": 18492
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 18497,
+                    "endColumn": 52,
+                    "endOffset": 18545
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 18550,
+                    "endColumn": 39,
+                    "endOffset": 18585
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 18590,
+                    "endColumn": 61,
+                    "endOffset": 18647
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 18652,
+                    "endColumn": 69,
+                    "endOffset": 18717
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 18722,
+                    "endColumn": 70,
+                    "endOffset": 18788
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 18793,
+                    "endColumn": 49,
+                    "endOffset": 18838
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 18843,
+                    "endColumn": 47,
+                    "endOffset": 18886
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 18891,
+                    "endColumn": 60,
+                    "endOffset": 18947
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 18952,
+                    "endColumn": 56,
+                    "endOffset": 19004
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 19009,
+                    "endColumn": 69,
+                    "endOffset": 19074
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 19079,
+                    "endColumn": 60,
+                    "endOffset": 19135
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 19140,
+                    "endColumn": 78,
+                    "endOffset": 19214
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 19219,
+                    "endColumn": 80,
+                    "endOffset": 19295
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 19300,
+                    "endColumn": 76,
+                    "endOffset": 19372
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 19377,
+                    "endColumn": 74,
+                    "endOffset": 19447
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 19452,
+                    "endColumn": 58,
+                    "endOffset": 19506
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 19511,
+                    "endColumn": 64,
+                    "endOffset": 19571
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 19576,
+                    "endColumn": 63,
+                    "endOffset": 19635
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 19640,
+                    "endColumn": 66,
+                    "endOffset": 19702
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 19707,
+                    "endColumn": 67,
+                    "endOffset": 19770
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 19775,
+                    "endColumn": 64,
+                    "endOffset": 19835
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 19840,
+                    "endColumn": 62,
+                    "endOffset": 19898
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 19903,
+                    "endColumn": 65,
+                    "endOffset": 19964
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 19969,
+                    "endColumn": 66,
+                    "endOffset": 20031
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 20036,
+                    "endColumn": 71,
+                    "endOffset": 20103
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 20108,
+                    "endColumn": 65,
+                    "endOffset": 20169
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 20174,
+                    "endColumn": 68,
+                    "endOffset": 20238
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 20243,
+                    "endColumn": 66,
+                    "endOffset": 20305
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 20310,
+                    "endColumn": 61,
+                    "endOffset": 20367
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 20372,
+                    "endColumn": 55,
+                    "endOffset": 20423
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 20428,
+                    "endColumn": 49,
+                    "endOffset": 20473
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 20478,
+                    "endColumn": 47,
+                    "endOffset": 20521
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 20526,
+                    "endColumn": 51,
+                    "endOffset": 20573
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 20578,
+                    "endColumn": 61,
+                    "endOffset": 20635
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 20640,
+                    "endColumn": 54,
+                    "endOffset": 20690
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 20695,
+                    "endColumn": 61,
+                    "endOffset": 20752
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 20757,
+                    "endColumn": 67,
+                    "endOffset": 20820
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 20825,
+                    "endColumn": 50,
+                    "endOffset": 20871
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 20876,
+                    "endColumn": 77,
+                    "endOffset": 20949
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 20954,
+                    "endColumn": 75,
+                    "endOffset": 21025
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 21030,
+                    "endColumn": 59,
+                    "endOffset": 21085
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 21090,
+                    "endColumn": 76,
+                    "endOffset": 21162
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 21167,
+                    "endColumn": 66,
+                    "endOffset": 21229
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 21234,
+                    "endColumn": 77,
+                    "endOffset": 21307
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 21312,
+                    "endColumn": 48,
+                    "endOffset": 21356
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 21361,
+                    "endColumn": 54,
+                    "endOffset": 21411
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 21416,
+                    "endColumn": 56,
+                    "endOffset": 21468
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 21473,
+                    "endColumn": 54,
+                    "endOffset": 21523
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 21528,
+                    "endColumn": 56,
+                    "endOffset": 21580
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 21585,
+                    "endColumn": 54,
+                    "endOffset": 21635
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 21640,
+                    "endColumn": 51,
+                    "endOffset": 21687
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 21692,
+                    "endColumn": 40,
+                    "endOffset": 21728
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 21733,
+                    "endColumn": 51,
+                    "endOffset": 21780
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 21785,
+                    "endColumn": 41,
+                    "endOffset": 21822
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 21827,
+                    "endColumn": 71,
+                    "endOffset": 21894
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 21899,
+                    "endColumn": 74,
+                    "endOffset": 21969
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 21974,
+                    "endColumn": 78,
+                    "endOffset": 22048
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 22053,
+                    "endColumn": 71,
+                    "endOffset": 22120
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 22125,
+                    "endColumn": 71,
+                    "endOffset": 22192
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 22197,
+                    "endColumn": 69,
+                    "endOffset": 22262
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 22267,
+                    "endColumn": 70,
+                    "endOffset": 22333
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 22338,
+                    "endColumn": 66,
+                    "endOffset": 22400
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 22405,
+                    "endColumn": 73,
+                    "endOffset": 22474
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 22479,
+                    "endColumn": 68,
+                    "endOffset": 22543
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 22548,
+                    "endColumn": 62,
+                    "endOffset": 22606
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 22611,
+                    "endColumn": 79,
+                    "endOffset": 22686
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 22691,
+                    "endColumn": 70,
+                    "endOffset": 22757
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 22762,
+                    "endColumn": 70,
+                    "endOffset": 22828
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 22833,
+                    "endColumn": 66,
+                    "endOffset": 22895
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 22900,
+                    "endColumn": 68,
+                    "endOffset": 22964
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 22969,
+                    "endColumn": 73,
+                    "endOffset": 23038
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 23043,
+                    "endColumn": 43,
+                    "endOffset": 23082
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 23087,
+                    "endColumn": 59,
+                    "endOffset": 23142
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 23147,
+                    "endColumn": 61,
+                    "endOffset": 23204
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 23209,
+                    "endColumn": 54,
+                    "endOffset": 23259
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 23264,
+                    "endColumn": 43,
+                    "endOffset": 23303
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 23308,
+                    "endColumn": 43,
+                    "endOffset": 23347
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 23352,
+                    "endColumn": 49,
+                    "endOffset": 23397
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 23402,
+                    "endColumn": 53,
+                    "endOffset": 23451
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 23456,
+                    "endColumn": 47,
+                    "endOffset": 23499
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 23504,
+                    "endColumn": 60,
+                    "endOffset": 23560
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 23565,
+                    "endColumn": 62,
+                    "endOffset": 23623
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 23628,
+                    "endColumn": 62,
+                    "endOffset": 23686
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 23691,
+                    "endColumn": 43,
+                    "endOffset": 23730
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 23735,
+                    "endColumn": 80,
+                    "endOffset": 23811
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 23816,
+                    "endColumn": 80,
+                    "endOffset": 23892
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 23897,
+                    "endColumn": 71,
+                    "endOffset": 23964
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 23969,
+                    "endColumn": 88,
+                    "endOffset": 24053
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 24058,
+                    "endColumn": 87,
+                    "endOffset": 24141
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 24146,
+                    "endColumn": 77,
+                    "endOffset": 24219
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 24224,
+                    "endColumn": 80,
+                    "endOffset": 24300
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 24305,
+                    "endColumn": 85,
+                    "endOffset": 24386
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 24391,
+                    "endColumn": 60,
+                    "endOffset": 24447
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 24452,
+                    "endColumn": 53,
+                    "endOffset": 24501
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 24506,
+                    "endColumn": 44,
+                    "endOffset": 24546
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 24551,
+                    "endColumn": 52,
+                    "endOffset": 24599
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 24604,
+                    "endColumn": 66,
+                    "endOffset": 24666
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 24671,
+                    "endColumn": 75,
+                    "endOffset": 24742
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 24747,
+                    "endColumn": 42,
+                    "endOffset": 24785
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 24790,
+                    "endColumn": 45,
+                    "endOffset": 24831
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 24836,
+                    "endColumn": 51,
+                    "endOffset": 24883
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 24888,
+                    "endColumn": 65,
+                    "endOffset": 24949
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 24954,
+                    "endColumn": 62,
+                    "endOffset": 25012
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 25017,
+                    "endColumn": 62,
+                    "endOffset": 25075
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 25080,
+                    "endColumn": 62,
+                    "endOffset": 25138
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 25143,
+                    "endColumn": 60,
+                    "endOffset": 25199
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 25204,
+                    "endColumn": 61,
+                    "endOffset": 25261
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 25266,
+                    "endColumn": 62,
+                    "endOffset": 25324
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 25329,
+                    "endColumn": 76,
+                    "endOffset": 25401
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 25406,
+                    "endColumn": 61,
+                    "endOffset": 25463
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 25468,
+                    "endColumn": 59,
+                    "endOffset": 25523
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 25528,
+                    "endColumn": 75,
+                    "endOffset": 25599
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 25604,
+                    "endColumn": 63,
+                    "endOffset": 25663
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 25668,
+                    "endColumn": 47,
+                    "endOffset": 25711
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 25716,
+                    "endColumn": 73,
+                    "endOffset": 25785
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_config.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 25790,
+                    "endColumn": 64,
+                    "endOffset": 25850
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 25855,
+                    "endColumn": 59,
+                    "endOffset": 25910
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 611,
+                    "startColumn": 4,
+                    "startOffset": 25915,
+                    "endColumn": 61,
+                    "endOffset": 25972
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 25977,
+                    "endColumn": 54,
+                    "endOffset": 26027
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 26032,
+                    "endColumn": 49,
+                    "endOffset": 26077
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 614,
+                    "startColumn": 4,
+                    "startOffset": 26082,
+                    "endColumn": 44,
+                    "endOffset": 26122
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 615,
+                    "startColumn": 4,
+                    "startOffset": 26127,
+                    "endColumn": 48,
+                    "endOffset": 26171
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 616,
+                    "startColumn": 4,
+                    "startOffset": 26176,
+                    "endColumn": 68,
+                    "endOffset": 26240
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 617,
+                    "startColumn": 4,
+                    "startOffset": 26245,
+                    "endColumn": 53,
+                    "endOffset": 26294
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 618,
+                    "startColumn": 4,
+                    "startOffset": 26299,
+                    "endColumn": 59,
+                    "endOffset": 26354
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 26359,
+                    "endColumn": 56,
+                    "endOffset": 26411
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 620,
+                    "startColumn": 4,
+                    "startOffset": 26416,
+                    "endColumn": 52,
+                    "endOffset": 26464
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 621,
+                    "startColumn": 4,
+                    "startOffset": 26469,
+                    "endColumn": 69,
+                    "endOffset": 26534
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 26539,
+                    "endColumn": 62,
+                    "endOffset": 26597
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 26602,
+                    "endColumn": 52,
+                    "endOffset": 26650
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 26655,
+                    "endColumn": 53,
+                    "endOffset": 26704
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 26709,
+                    "endColumn": 64,
+                    "endOffset": 26769
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 626,
+                    "startColumn": 4,
+                    "startOffset": 26774,
+                    "endColumn": 61,
+                    "endOffset": 26831
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 26836,
+                    "endColumn": 70,
+                    "endOffset": 26902
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 26907,
+                    "endColumn": 62,
+                    "endOffset": 26965
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 26970,
+                    "endColumn": 55,
+                    "endOffset": 27021
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 27026,
+                    "endColumn": 41,
+                    "endOffset": 27063
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 631,
+                    "startColumn": 4,
+                    "startOffset": 27068,
+                    "endColumn": 60,
+                    "endOffset": 27124
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 27129,
+                    "endColumn": 60,
+                    "endOffset": 27185
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 633,
+                    "startColumn": 4,
+                    "startOffset": 27190,
+                    "endColumn": 49,
+                    "endOffset": 27235
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 634,
+                    "startColumn": 4,
+                    "startOffset": 27240,
+                    "endColumn": 54,
+                    "endOffset": 27290
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 27295,
+                    "endColumn": 61,
+                    "endOffset": 27352
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 27357,
+                    "endColumn": 80,
+                    "endOffset": 27433
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 27438,
+                    "endColumn": 57,
+                    "endOffset": 27491
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 638,
+                    "startColumn": 4,
+                    "startOffset": 27496,
+                    "endColumn": 56,
+                    "endOffset": 27548
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 639,
+                    "startColumn": 4,
+                    "startOffset": 27553,
+                    "endColumn": 57,
+                    "endOffset": 27606
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 640,
+                    "startColumn": 4,
+                    "startOffset": 27611,
+                    "endColumn": 60,
+                    "endOffset": 27667
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 641,
+                    "startColumn": 4,
+                    "startOffset": 27672,
+                    "endColumn": 63,
+                    "endOffset": 27731
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 642,
+                    "startColumn": 4,
+                    "startOffset": 27736,
+                    "endColumn": 61,
+                    "endOffset": 27793
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 643,
+                    "startColumn": 4,
+                    "startOffset": 27798,
+                    "endColumn": 57,
+                    "endOffset": 27851
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 27856,
+                    "endColumn": 60,
+                    "endOffset": 27912
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 645,
+                    "startColumn": 4,
+                    "startOffset": 27917,
+                    "endColumn": 57,
+                    "endOffset": 27970
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 646,
+                    "startColumn": 4,
+                    "startOffset": 27975,
+                    "endColumn": 47,
+                    "endOffset": 28018
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 647,
+                    "startColumn": 4,
+                    "startOffset": 28023,
+                    "endColumn": 45,
+                    "endOffset": 28064
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 28069,
+                    "endColumn": 48,
+                    "endOffset": 28113
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 649,
+                    "startColumn": 4,
+                    "startOffset": 28118,
+                    "endColumn": 38,
+                    "endOffset": 28152
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 28157,
+                    "endColumn": 51,
+                    "endOffset": 28204
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 28209,
+                    "endColumn": 58,
+                    "endOffset": 28263
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 28268,
+                    "endColumn": 51,
+                    "endOffset": 28315
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 653,
+                    "startColumn": 4,
+                    "startOffset": 28320,
+                    "endColumn": 48,
+                    "endOffset": 28364
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 654,
+                    "startColumn": 4,
+                    "startOffset": 28369,
+                    "endColumn": 46,
+                    "endOffset": 28411
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 28416,
+                    "endColumn": 45,
+                    "endOffset": 28457
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 28462,
+                    "endColumn": 56,
+                    "endOffset": 28514
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 657,
+                    "startColumn": 4,
+                    "startOffset": 28519,
+                    "endColumn": 63,
+                    "endOffset": 28578
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 658,
+                    "startColumn": 4,
+                    "startOffset": 28583,
+                    "endColumn": 68,
+                    "endOffset": 28647
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 659,
+                    "startColumn": 4,
+                    "startOffset": 28652,
+                    "endColumn": 59,
+                    "endOffset": 28707
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 28712,
+                    "endColumn": 57,
+                    "endOffset": 28765
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 661,
+                    "startColumn": 4,
+                    "startOffset": 28770,
+                    "endColumn": 57,
+                    "endOffset": 28823
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 662,
+                    "startColumn": 4,
+                    "startOffset": 28828,
+                    "endColumn": 58,
+                    "endOffset": 28882
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 663,
+                    "startColumn": 4,
+                    "startOffset": 28887,
+                    "endColumn": 69,
+                    "endOffset": 28952
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 664,
+                    "startColumn": 4,
+                    "startOffset": 28957,
+                    "endColumn": 59,
+                    "endOffset": 29012
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 665,
+                    "startColumn": 4,
+                    "startOffset": 29017,
+                    "endColumn": 65,
+                    "endOffset": 29078
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 666,
+                    "startColumn": 4,
+                    "startOffset": 29083,
+                    "endColumn": 74,
+                    "endOffset": 29153
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 667,
+                    "startColumn": 4,
+                    "startOffset": 29158,
+                    "endColumn": 55,
+                    "endOffset": 29209
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 668,
+                    "startColumn": 4,
+                    "startOffset": 29214,
+                    "endColumn": 66,
+                    "endOffset": 29276
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 669,
+                    "startColumn": 4,
+                    "startOffset": 29281,
+                    "endColumn": 77,
+                    "endOffset": 29354
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 670,
+                    "startColumn": 4,
+                    "startOffset": 29359,
+                    "endColumn": 64,
+                    "endOffset": 29419
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 671,
+                    "startColumn": 4,
+                    "startOffset": 29424,
+                    "endColumn": 65,
+                    "endOffset": 29485
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 672,
+                    "startColumn": 4,
+                    "startOffset": 29490,
+                    "endColumn": 68,
+                    "endOffset": 29554
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 673,
+                    "startColumn": 4,
+                    "startOffset": 29559,
+                    "endColumn": 54,
+                    "endOffset": 29609
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 674,
+                    "startColumn": 4,
+                    "startOffset": 29614,
+                    "endColumn": 66,
+                    "endOffset": 29676
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 675,
+                    "startColumn": 4,
+                    "startOffset": 29681,
+                    "endColumn": 59,
+                    "endOffset": 29736
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 29741,
+                    "endColumn": 73,
+                    "endOffset": 29810
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 677,
+                    "startColumn": 4,
+                    "startOffset": 29815,
+                    "endColumn": 48,
+                    "endOffset": 29859
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 678,
+                    "startColumn": 4,
+                    "startOffset": 29864,
+                    "endColumn": 57,
+                    "endOffset": 29917
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 29922,
+                    "endColumn": 48,
+                    "endOffset": 29966
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 680,
+                    "startColumn": 4,
+                    "startOffset": 29971,
+                    "endColumn": 57,
+                    "endOffset": 30024
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 30029,
+                    "endColumn": 56,
+                    "endOffset": 30081
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 682,
+                    "startColumn": 4,
+                    "startOffset": 30086,
+                    "endColumn": 48,
+                    "endOffset": 30130
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 683,
+                    "startColumn": 4,
+                    "startOffset": 30135,
+                    "endColumn": 62,
+                    "endOffset": 30193
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 30198,
+                    "endColumn": 55,
+                    "endOffset": 30249
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 30254,
+                    "endColumn": 48,
+                    "endOffset": 30298
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 686,
+                    "startColumn": 4,
+                    "startOffset": 30303,
+                    "endColumn": 56,
+                    "endOffset": 30355
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 30360,
+                    "endColumn": 64,
+                    "endOffset": 30420
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 688,
+                    "startColumn": 4,
+                    "startOffset": 30425,
+                    "endColumn": 53,
+                    "endOffset": 30474
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 30479,
+                    "endColumn": 63,
+                    "endOffset": 30538
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 690,
+                    "startColumn": 4,
+                    "startOffset": 30543,
+                    "endColumn": 46,
+                    "endOffset": 30585
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 691,
+                    "startColumn": 4,
+                    "startOffset": 30590,
+                    "endColumn": 49,
+                    "endOffset": 30635
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 30640,
+                    "endColumn": 59,
+                    "endOffset": 30695
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 693,
+                    "startColumn": 4,
+                    "startOffset": 30700,
+                    "endColumn": 61,
+                    "endOffset": 30757
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 694,
+                    "startColumn": 4,
+                    "startOffset": 30762,
+                    "endColumn": 48,
+                    "endOffset": 30806
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 695,
+                    "startColumn": 4,
+                    "startOffset": 30811,
+                    "endColumn": 47,
+                    "endOffset": 30854
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 696,
+                    "startColumn": 4,
+                    "startOffset": 30859,
+                    "endColumn": 50,
+                    "endOffset": 30905
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 697,
+                    "startColumn": 4,
+                    "startOffset": 30910,
+                    "endColumn": 48,
+                    "endOffset": 30954
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 698,
+                    "startColumn": 4,
+                    "startOffset": 30959,
+                    "endColumn": 62,
+                    "endOffset": 31017
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 699,
+                    "startColumn": 4,
+                    "startOffset": 31022,
+                    "endColumn": 64,
+                    "endOffset": 31082
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 700,
+                    "startColumn": 4,
+                    "startOffset": 31087,
+                    "endColumn": 59,
+                    "endOffset": 31142
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 701,
+                    "startColumn": 4,
+                    "startOffset": 31147,
+                    "endColumn": 57,
+                    "endOffset": 31200
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 702,
+                    "startColumn": 4,
+                    "startOffset": 31205,
+                    "endColumn": 61,
+                    "endOffset": 31262
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 703,
+                    "startColumn": 4,
+                    "startOffset": 31267,
+                    "endColumn": 56,
+                    "endOffset": 31319
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\build\\intermediates\\exploded-aar\\RongCloudDemo\\IMLib\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 704,
+                    "startColumn": 4,
+                    "startOffset": 31324,
+                    "endColumn": 44,
+                    "endOffset": 31364
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 705,
+                    "startColumn": 4,
+                    "startOffset": 31369,
+                    "endColumn": 56,
+                    "endOffset": 31421
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 706,
+                    "startColumn": 4,
+                    "startOffset": 31426,
+                    "endColumn": 78,
+                    "endOffset": 31500
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 707,
+                    "startColumn": 4,
+                    "startOffset": 31505,
+                    "endColumn": 86,
+                    "endOffset": 31587
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 708,
+                    "startColumn": 4,
+                    "startOffset": 31592,
+                    "endColumn": 65,
+                    "endOffset": 31653
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 709,
+                    "startColumn": 4,
+                    "startOffset": 31658,
+                    "endColumn": 66,
+                    "endOffset": 31720
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 710,
+                    "startColumn": 4,
+                    "startOffset": 31725,
+                    "endColumn": 49,
+                    "endOffset": 31770
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 711,
+                    "startColumn": 4,
+                    "startOffset": 31775,
+                    "endColumn": 57,
+                    "endOffset": 31828
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 712,
+                    "startColumn": 4,
+                    "startOffset": 31833,
+                    "endColumn": 75,
+                    "endOffset": 31904
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 713,
+                    "startColumn": 4,
+                    "startOffset": 31909,
+                    "endColumn": 49,
+                    "endOffset": 31954
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 714,
+                    "startColumn": 4,
+                    "startOffset": 31959,
+                    "endColumn": 48,
+                    "endOffset": 32003
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 715,
+                    "startColumn": 4,
+                    "startOffset": 32008,
+                    "endColumn": 54,
+                    "endOffset": 32058
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 716,
+                    "startColumn": 4,
+                    "startOffset": 32063,
+                    "endColumn": 40,
+                    "endOffset": 32099
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 717,
+                    "startColumn": 4,
+                    "startOffset": 32104,
+                    "endColumn": 51,
+                    "endOffset": 32151
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 718,
+                    "startColumn": 4,
+                    "startOffset": 32156,
+                    "endColumn": 60,
+                    "endOffset": 32212
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 719,
+                    "startColumn": 4,
+                    "startOffset": 32217,
+                    "endColumn": 60,
+                    "endOffset": 32273
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 720,
+                    "startColumn": 4,
+                    "startOffset": 32278,
+                    "endColumn": 68,
+                    "endOffset": 32342
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 721,
+                    "startColumn": 4,
+                    "startOffset": 32347,
+                    "endColumn": 63,
+                    "endOffset": 32406
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 722,
+                    "startColumn": 4,
+                    "startOffset": 32411,
+                    "endColumn": 64,
+                    "endOffset": 32471
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 723,
+                    "startColumn": 4,
+                    "startOffset": 32476,
+                    "endColumn": 73,
+                    "endOffset": 32545
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 724,
+                    "startColumn": 4,
+                    "startOffset": 32550,
+                    "endColumn": 77,
+                    "endOffset": 32623
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 725,
+                    "startColumn": 4,
+                    "startOffset": 32628,
+                    "endColumn": 46,
+                    "endOffset": 32670
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 726,
+                    "startColumn": 4,
+                    "startOffset": 32675,
+                    "endColumn": 49,
+                    "endOffset": 32720
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 727,
+                    "startColumn": 4,
+                    "startOffset": 32725,
+                    "endColumn": 58,
+                    "endOffset": 32779
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 728,
+                    "startColumn": 4,
+                    "startOffset": 32784,
+                    "endColumn": 56,
+                    "endOffset": 32836
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 729,
+                    "startColumn": 4,
+                    "startOffset": 32841,
+                    "endColumn": 47,
+                    "endOffset": 32884
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 730,
+                    "startColumn": 4,
+                    "startOffset": 32889,
+                    "endColumn": 50,
+                    "endOffset": 32935
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 731,
+                    "startColumn": 4,
+                    "startOffset": 32940,
+                    "endColumn": 48,
+                    "endOffset": 32984
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 732,
+                    "startColumn": 4,
+                    "startOffset": 32989,
+                    "endColumn": 53,
+                    "endOffset": 33038
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 733,
+                    "startColumn": 4,
+                    "startOffset": 33043,
+                    "endColumn": 50,
+                    "endOffset": 33089
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 734,
+                    "startColumn": 4,
+                    "startOffset": 33094,
+                    "endColumn": 50,
+                    "endOffset": 33140
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 735,
+                    "startColumn": 4,
+                    "startOffset": 33145,
+                    "endColumn": 49,
+                    "endOffset": 33190
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 736,
+                    "startColumn": 4,
+                    "startOffset": 33195,
+                    "endColumn": 62,
+                    "endOffset": 33253
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 737,
+                    "startColumn": 4,
+                    "startOffset": 33258,
+                    "endColumn": 42,
+                    "endOffset": 33296
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 738,
+                    "startColumn": 4,
+                    "startOffset": 33301,
+                    "endColumn": 50,
+                    "endOffset": 33347
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 739,
+                    "startColumn": 4,
+                    "startOffset": 33352,
+                    "endColumn": 44,
+                    "endOffset": 33392
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 740,
+                    "startColumn": 4,
+                    "startOffset": 33397,
+                    "endColumn": 36,
+                    "endOffset": 33429
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 741,
+                    "startColumn": 4,
+                    "startOffset": 33434,
+                    "endColumn": 50,
+                    "endOffset": 33480
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 742,
+                    "startColumn": 4,
+                    "startOffset": 33485,
+                    "endColumn": 63,
+                    "endOffset": 33544
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_ext_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 743,
+                    "startColumn": 4,
+                    "startOffset": 33549,
+                    "endColumn": 62,
+                    "endOffset": 33607
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_kit_string.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 744,
+                    "startColumn": 4,
+                    "startOffset": 33612,
+                    "endLine": 752,
+                    "endColumn": 12,
+                    "endOffset": 34238
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 753,
+                    "startColumn": 4,
+                    "startOffset": 34243,
+                    "endLine": 756,
+                    "endColumn": 12,
+                    "endOffset": 34460
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 757,
+                    "startColumn": 4,
+                    "startOffset": 34465,
+                    "endLine": 760,
+                    "endColumn": 12,
+                    "endOffset": 34668
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 761,
+                    "startColumn": 4,
+                    "startOffset": 34673,
+                    "endLine": 765,
+                    "endColumn": 12,
+                    "endOffset": 34936
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 766,
+                    "startColumn": 4,
+                    "startOffset": 34941,
+                    "endLine": 772,
+                    "endColumn": 12,
+                    "endOffset": 35326
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 773,
+                    "startColumn": 4,
+                    "startOffset": 35331,
+                    "endLine": 781,
+                    "endColumn": 12,
+                    "endOffset": 35821
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 782,
+                    "startColumn": 4,
+                    "startOffset": 35826,
+                    "endLine": 784,
+                    "endColumn": 12,
+                    "endOffset": 35904
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 785,
+                    "startColumn": 4,
+                    "startOffset": 35909,
+                    "endLine": 787,
+                    "endColumn": 12,
+                    "endOffset": 35986
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 788,
+                    "startColumn": 4,
+                    "startOffset": 35991,
+                    "endLine": 790,
+                    "endColumn": 12,
+                    "endOffset": 36164
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 791,
+                    "startColumn": 4,
+                    "startOffset": 36169,
+                    "endLine": 793,
+                    "endColumn": 12,
+                    "endOffset": 36247
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 794,
+                    "startColumn": 4,
+                    "startOffset": 36252,
+                    "endLine": 798,
+                    "endColumn": 12,
+                    "endOffset": 36535
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 799,
+                    "startColumn": 4,
+                    "startOffset": 36540,
+                    "endLine": 801,
+                    "endColumn": 12,
+                    "endOffset": 36617
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 802,
+                    "startColumn": 4,
+                    "startOffset": 36622,
+                    "endLine": 809,
+                    "endColumn": 12,
+                    "endOffset": 37079
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_theme.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 810,
+                    "startColumn": 4,
+                    "startOffset": 37084,
+                    "endLine": 814,
+                    "endColumn": 12,
+                    "endOffset": 37333
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 815,
+                    "startColumn": 4,
+                    "startOffset": 37338,
+                    "endLine": 821,
+                    "endColumn": 12,
+                    "endOffset": 37706
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 822,
+                    "startColumn": 4,
+                    "startOffset": 37711,
+                    "endLine": 828,
+                    "endColumn": 12,
+                    "endOffset": 38054
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 829,
+                    "startColumn": 4,
+                    "startOffset": 38059,
+                    "endLine": 835,
+                    "endColumn": 12,
+                    "endOffset": 38407
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 836,
+                    "startColumn": 4,
+                    "startOffset": 38412,
+                    "endLine": 843,
+                    "endColumn": 12,
+                    "endOffset": 38805
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 844,
+                    "startColumn": 4,
+                    "startOffset": 38810,
+                    "endLine": 847,
+                    "endColumn": 12,
+                    "endOffset": 39018
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 848,
+                    "startColumn": 4,
+                    "startOffset": 39023,
+                    "endLine": 852,
+                    "endColumn": 12,
+                    "endOffset": 39270
+                },
+                "from": {
+                    "file": "D:\\android-work\\RongCloudDemo\\IMKit\\src\\main\\res\\values\\rc_style.xml"
+                }
+            }
+        ]
+    }
+]
