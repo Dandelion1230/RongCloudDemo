@@ -5,15 +5,21 @@ import android.app.Application;
 import android.content.Context;
 
 import io.rong.imkit.RongIM;
+import io.rong.push.RongPushClient;
 
 /**
  * Created by Administrator on 2016/12/8.
  */
 
 public class App extends Application {
+
+    private String miAppId = "2882303761517533061";
+    private String miAppKey = "5741753333061";
+
     @Override
     public void onCreate() {
         super.onCreate();
+        RongPushClient.registerMiPush(this, miAppId, miAppKey);
         RongIM.init(this);
     }
 

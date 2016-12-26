@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
     private void connect(String token) {
 
         if (getApplicationInfo().packageName.equals(App.getCurProcessName(getApplicationContext()))) {
-
+            RongIM.getInstance().setMessageAttachedUserInfo(true);
             RongIM.connect(token, new RongIMClient.ConnectCallback() {
 
                 /**
@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onSuccess(String userid) {
                     Log.d("LoginActivity", "--onSuccess" + userid);
+//                    RongIM.getInstance().setCurrentUserInfo(userInfo);
                     startConversationList();
 //                    startCustomerServiceChat();
 //                    startActivity(new Intent(LoginActivity.this, MainActivity.class));

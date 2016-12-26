@@ -59,6 +59,7 @@ public class HttpUtils {
     }
 
 
+
     public String sha1(String data) {
         MessageDigest md = null;
         try {
